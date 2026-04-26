@@ -54,4 +54,6 @@ Once you have your playlist fully assembled just click "Save .graveyard" and pic
 
 I hope you enjoy my player as much as I do!
 
-
+# _UPDATE_
+Well, this is embarassing. Apparently the scrobble and loop functions are both just completely broken. Looks like I gotta start from scratch like I was saying before to even have a FULLY WORKING version. SMH.
+Let this be a lesson to everyone who thinks Vibe Coding is viable. It isn't. I vibe coded this version because I don't KNOW Rust and did not have the patience to learn it. Now I'm just going to learn it so I can build it fully on my own like I did the python version. Sorry everyone, stay tuned for updates 🙏
