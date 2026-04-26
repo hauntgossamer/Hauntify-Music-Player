@@ -1,6 +1,7 @@
 # Hauntify Music Player
 
 This is a music player that I built myself!
+
 ![screenshot of Hauntify](player.webp)
 
 Originally it started as a custom shuffle algorithm that I wrote because I wanted to see if I could make something that felt more random 
